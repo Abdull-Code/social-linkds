@@ -35,4 +35,4 @@ This social media link profile  card is one of many challenges from Frontend Men
 
 ## solution URL Link
 
-* [Solution URL](https://github.com/Abdull-Code/social-links)  <!-- Add your solution URL here -->
+* [Solution URL](https://github.com/Abdull-Code/social-linkds)  <!-- Add your solution URL here -->
